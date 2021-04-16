@@ -2,6 +2,8 @@ import numpy
 import re
 import decimal
 
+
+
 print("Welcome to the financial garden! \nLet's get budgetting!")
 
 inc = (float(input("Let's start with your income! how much do you get paid a month?: ")))
